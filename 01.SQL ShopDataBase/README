@@ -2,7 +2,7 @@ This SQL file creates and fill out the database a relational database named 'Sho
 designed to manage an e-commerce shop's data.
 It includes table creation, data insertion, and a variety of SQL queries to demonstrate functionality and data analysis capabilities.
 
-##Database Structure
+## Database Structure
 The database consists of six interrelated tables:
 Users, Categories, Products, Orders, Order_Items, Addresses
 
