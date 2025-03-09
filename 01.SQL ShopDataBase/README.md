@@ -18,7 +18,7 @@ The file fill out the tables with sample data:
 SQL Modifications:
 The Orders table's status column is updated to use an ENUM type with five possible values (pending, shipped, delivered, canceled, processing), defaulting to pending.
 
-!01.SQL ShopDataBase(imagesstructure of database.png)
+![Struktura bazy danych](01.SOL%20ShopDataBase/structure%20of%20database.png)
 
 SQL Queries:
 The file includes 20 SQL queries showcasing various data retrieval and analysis techniques
